@@ -1,1 +1,1 @@
-- [Favourites](favourites.md)
+- [Favourites](./favourites.md)
